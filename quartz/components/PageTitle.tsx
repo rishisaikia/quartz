@@ -52,6 +52,13 @@ PageTitle.css = `
   mix-blend-mode: screen; 
   opacity: 0.8;
 }
+
+@media all and (max-width: 800px) {
+  .page-icon {
+    width: 60px;
+    height: 60px;
+  }
+}
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

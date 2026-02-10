@@ -25,6 +25,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     Component.TagList(),
     Component.FrontmatterProperties(),
+    Component.VerticalSpacer({ height: "2rem" }), // Reduced spacing as per feedback
   ],
   left: [
     Component.PageTitle(),
@@ -39,7 +40,12 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorer",
+      folderClickBehavior: "link",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    }),
   ],
   right: [
     Component.Graph(),
@@ -63,7 +69,12 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      title: "Explorer",
+      folderClickBehavior: "link",
+      folderDefaultState: "collapsed",
+      useSavedState: true,
+    }),
   ],
   right: [],
 }

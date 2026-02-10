@@ -1,3 +1,4 @@
+export { default as VerticalSpacer } from "./VerticalSpacer"
 import Content from "./pages/Content"
 import TagContent from "./pages/TagContent"
 import FolderContent from "./pages/FolderContent"

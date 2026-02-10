@@ -1,7 +1,98 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+@use "./variables.scss" as *;
+
 // Hide frontmatter graph links from display
 .frontmatter-graph-link {
-    display: none !important;
+  display: none !important;
+}
+
+// Optimize line-width for reading
+article {
+  max-width: 65ch;
+  margin: 0 auto;
+}
+
+// Fade-in animation
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.page {
+  animation: fadeIn 0.4s ease-out;
+}
+
+// --- Visual Polish ---
+
+// 0. Spacing after categories (tags)
+.tags {
+  margin-bottom: 2rem !important; // Add blank space after categories
+}
+
+// 1. Card Styling for Explorer and Backlinks
+.explorer,
+.backlinks {
+  background: var(--light);
+  border: 1px solid var(--lightgray);
+  border-radius: 12px;
+  padding: 1rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.06);
+  }
+}
+
+// 2. Link Hover Effects (Slide-up underline)
+a.internal {
+  text-decoration: none;
+  background-image: linear-gradient(var(--secondary), var(--secondary));
+  background-position: 0% 100%;
+  background-repeat: no-repeat;
+  background-size: 0% 2px;
+  transition: background-size 0.3s;
+
+  &:hover {
+    background-size: 100% 2px;
+    color: var(--secondary);
+  }
+}
+
+// 3. Navbar/Header Glassmorphism
+.page-header {
+  // Use color-mix for valid CSS transparency with variables, or just var(--light) for solid
+  background: color-mix(in srgb, var(--light) 95%, transparent);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  border-bottom: 1px solid var(--lightgray);
+  padding-bottom: 0.5rem;
+  margin-bottom: 2rem;
+}
+
+// 4. Typography Enhancements
+h1,
+h2,
+h3 {
+  letter-spacing: -0.02em;
+  font-weight: 700;
+}
+
+// 5. Code Block Styling
+pre {
+  border-radius: 8px;
+  border: 1px solid var(--lightgray);
 }

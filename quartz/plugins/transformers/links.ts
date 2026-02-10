@@ -22,6 +22,8 @@ interface Options {
   openLinksInNewTab: boolean
   lazyLoad: boolean
   externalLinkIcon: boolean
+  /** Frontmatter properties to extract links from */
+  frontmatterLinkProperties: string[]
 }
 
 const defaultOptions: Options = {
@@ -30,6 +32,7 @@ const defaultOptions: Options = {
   openLinksInNewTab: false,
   lazyLoad: false,
   externalLinkIcon: true,
+  frontmatterLinkProperties: [],
 }
 
 export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) => {
@@ -46,6 +49,47 @@ export const CrawlLinks: QuartzTransformerPlugin<Partial<Options>> = (userOpts) 
             const transformOptions: TransformOptions = {
               strategy: opts.markdownLinkResolution,
               allSlugs: ctx.allSlugs,
+            }
+
+            // NEW: Extract links from frontmatter properties
+            if (opts.frontmatterLinkProperties.length > 0) {
+              const frontmatter = file.data.frontmatter as Record<string, any> | undefined
+
+              if (frontmatter) {
+                opts.frontmatterLinkProperties.forEach(prop => {
+                  const value = frontmatter[prop]
+                  if (!value) return
+
+                  const values = Array.isArray(value) ? value : [value]
+
+                  values.forEach((val: any) => {
+                    const strVal = String(val)
+                    // Match [[Note Name]] pattern
+                    const wikiLinkMatch = strVal.match(/^\[\[(.+?)\]\]$/)
+                    if (wikiLinkMatch) {
+                      const linkTarget = wikiLinkMatch[1]
+
+                      // Transform the link using the same logic as regular links
+                      const dest = transformLink(
+                        file.data.slug!,
+                        linkTarget as RelativeURL,
+                        transformOptions,
+                      )
+
+                      const url = new URL(dest, "https://base.com/" + stripSlashes(curSlug, true))
+                      const canonicalDest = url.pathname
+                      let [destCanonical, _destAnchor] = splitAnchor(canonicalDest)
+                      if (destCanonical.endsWith("/")) {
+                        destCanonical += "index"
+                      }
+
+                      const full = decodeURIComponent(stripSlashes(destCanonical, true)) as FullSlug
+                      const simple = simplifySlug(full)
+                      outgoing.add(simple)
+                    }
+                  })
+                })
+              }
             }
 
             visit(tree, "element", (node, _index, _parent) => {

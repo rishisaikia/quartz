@@ -524,8 +524,11 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
   }
 
   let stopAnimation = false
+  let hasRenderedOnce = false
+
   function animate(time: number) {
     if (stopAnimation) return
+
     for (const n of nodeRenderData) {
       const { x, y } = n.simulationData
       if (!x || !y) continue
@@ -546,8 +549,43 @@ async function renderGraph(graph: HTMLElement, fullSlug: FullSlug) {
 
     tweens.forEach((t) => t.update(time))
     app.renderer.render(stage)
+
+    // Force initial render after simulation settles
+    if (!hasRenderedOnce && simulation.alpha() < 0.3) {
+      hasRenderedOnce = true
+      renderPixiFromD3()
+      app.renderer.render(stage)
+    }
+
     requestAnimationFrame(animate)
   }
+
+  // Force initial positions and immediate render
+  for (let i = 0; i < 300; i++) {
+    simulation.tick()
+  }
+
+  // Manually position everything for first render
+  for (const n of nodeRenderData) {
+    const { x, y } = n.simulationData
+    if (!x || !y) continue
+    n.gfx.position.set(x + width / 2, y + height / 2)
+    if (n.label) {
+      n.label.position.set(x + width / 2, y + height / 2)
+    }
+  }
+
+  for (const l of linkRenderData) {
+    const linkData = l.simulationData
+    l.gfx.clear()
+    l.gfx.moveTo(linkData.source.x! + width / 2, linkData.source.y! + height / 2)
+    l.gfx
+      .lineTo(linkData.target.x! + width / 2, linkData.target.y! + height / 2)
+      .stroke({ alpha: l.alpha, width: 1, color: l.color })
+  }
+
+  // Force immediate render before animation starts
+  app.renderer.render(stage)
 
   requestAnimationFrame(animate)
   return () => {

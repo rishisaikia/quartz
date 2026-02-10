@@ -73,8 +73,7 @@ a.internal {
 .page-header {
   // Use color-mix for valid CSS transparency with variables, or just var(--light) for solid
   background: color-mix(in srgb, var(--light) 95%, transparent);
-  backdrop-filter: blur(12px);
-  -webkit-backdrop-filter: blur(12px);
+  // Restored sticky positioning so it stays in place
   position: sticky;
   top: 0;
   z-index: 1000;

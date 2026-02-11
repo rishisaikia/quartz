@@ -1,3 +1,13 @@
+---
+type: concept
+category:
+  - Behavior
+related_models:
+  - "[[Social Norms]]"
+related_ideas:
+  - "[[Self Deception]]"
+---
+## Key Insight
 We use signals to compete. While signals lead to some spectacular results (art, science, music, etc.), but left unrestrained, it leads to an arms-race which is wasteful, and would hold the entire species back. Hence, we use norms to keep a check on signalling.
 ### Animals vs. Humans
 Animals and plants can't stop this arms race because of their inability to look ahead. Even if redwoods were to be able to decide on a height cap, all it would take is for a single mutation to be present, and they'll grab all the sunlight, at the cost of all the other trees. This will ensure that the next generation of redwoods would be even more rivalrous. Eventually, all the trees will all be back to being as tall as before. Hence, redwoods have no way out to stop this arms-race for the good of the species. 
@@ -25,5 +35,6 @@ Similarly, we have also evolved to cheat and get away with it:
 3. **Pretexts**: Pretexts are ready-made excuses or alibis that make proscecution more difficult by having a ready explanation of your innocence. Surrogate advertising, smoke shops selling drug paraphernalia, executives stepping down to "spend more time with family" and hotels "insisting that you reuse towels to protect the environment" are all examples of pretexts. 
 4. **Discreet Communication**: The objective of discreet communication is plausible deniability. It's deployed via body language, cryptic communication, symbols, subtlety and informal speech (because it's generally off the record). Discreet communication works by ensuring that the subject matter is not common knowledge, and giving each party an escape clause. *"Want to come up and see my etchings?"* 
 5. **Skirting a norm**: Norms are not written down or cast in stone; hence, they leave a little room for interpretation and stretching. 
-6. **Self-Deception:** One of the subtler ways in which we violate norms is via [[Self Deception - Lying to Ourselves]]. 
+6. **Self-Deception:** One of the subtler ways in which we violate norms is via [[Self Deception]]. 
 
+## Notes

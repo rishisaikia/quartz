@@ -7,7 +7,7 @@ When an idea is evoked, it triggers many other associated ideas, which subsequen
 
 When stimulus is as per what S1's model defines as normal, we are at [[cognitive ease]], and S1 continues to be in control. When S1 assesses more effort is required, it's called [[cognitive strain]], and S2 is engaged. What's key is that a single measure of cognitive ease and strain is connected to a large network of diverse inputs and outputs, which determine our thoughts and actions. 
 
-Because S1 is lazy, seeks simplicity, works basis metaphors (see [[Metaphorical Conceptual System]], and associations, it exhibits some quirks. For example:
+Because S1 is lazy, seeks simplicity, works basis metaphors (see [[Conceptual System is Metaphorical]], and associations, it exhibits some quirks. For example:
 
 ![[Cognitive Ease.jpeg]]
 

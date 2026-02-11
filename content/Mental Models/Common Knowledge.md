@@ -8,6 +8,8 @@ related_models:
   - "[[Social Proof]]"
   - "[[Schelling Point]]"
   - "[[Pluralistic Ignorance]]"
+related_ideas:
+  - "[[Self Deception]]"
 ---
 ## Definition
 Information that everyone knows, everyone knows that everyone knows, and everyone knows that everyone knows that everyone knows (and so on). It's not enough for something to be true and widely known—it must be publicly known to be known.

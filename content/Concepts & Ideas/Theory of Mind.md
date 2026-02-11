@@ -18,6 +18,7 @@ Theory of Mind is the ability to attribute mental states to ourselves and to oth
 **False Belief Tasks**: 
 
 ***First Order false belief tasks*** assess the realisation that it is possible to hold false-beliefs about real events in the world. Example: Child is asked to predict another child's beliefs about the contents of a box that looks as thought it holds a candy called 'Smarties' (that the first child knows actually holds a pencil). *These tasks involve attribution about other's false beliefs with regard to real events.*
+
 ![[Pasted image 20260211123056.png]]
 
 ***Second Order false belief tasks*** requires a child to determine what one character in a pictured scenario thinks regarding another character's beliefs. *Passing this task demonstrates the realisation that it is possible to hold a false belief about someone else's belief.*

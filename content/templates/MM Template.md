@@ -3,7 +3,6 @@ type: mental-model
 category:
   - 
 related_models:
-  - "[[]]"
 ---
 ## Definition
 

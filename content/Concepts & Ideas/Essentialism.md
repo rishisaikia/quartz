@@ -1,0 +1,1 @@
+In *The Expression of Emotions in Man and Animals*, Darwin claimed that emotions and their expressions were an ancient part of universal human nature. Each emotion is supposed to have an essence- either a fingerprint, or something innate or specific that creates it. This is called *essentialism*.

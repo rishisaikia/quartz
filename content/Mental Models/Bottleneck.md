@@ -9,7 +9,6 @@ related_models:
   - "[[Pareto Principle]]"
   - "[[Limiting Factor]]"
 ---
-
 ## Definition
 The single point in a process that limits the overall throughput or performance of the entire system. The weakest link that constrains everything else.
 

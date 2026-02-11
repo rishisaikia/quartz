@@ -9,10 +9,11 @@ related_models:
   - "[[Comparative Advantage]]"
   - "[[Circle of Competence]]"
 ---
-
 ## Definition
 The intersection of what you love, what you're good at, what the world needs, and what you can be paid for. Finding your ikigai means finding work that satisfies all four dimensions.
 
+
+![[Pasted image 20260211170630.png]]
 ## Key Insight
 Optimizing for just one dimension leads to dissatisfaction. Love what you do but can't get paid? Hobby. Good at something the world doesn't need? Pointless. Paid well but hate it? Miserable. Ikigai is the sweet spot where all four align, creating sustainable purpose and satisfaction.
 

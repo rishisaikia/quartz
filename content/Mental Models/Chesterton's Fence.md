@@ -9,7 +9,6 @@ related_models:
   - "[[Unintended Consequences]]"
   - "[[Via Negativa]]"
 ---
-
 ## Definition
 Don't remove a fence, change a rule, or eliminate a practice until you understand why it was built in the first place. Reforms should only be made by those who understand the reasoning behind existing structures.
 

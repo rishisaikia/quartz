@@ -9,7 +9,6 @@ related_models:
   - "[[Evolution]]"
   - "[[Innovator's Dilemma]]"
 ---
-
 ## Definition
 The process by which new innovations destroy old industries and business models while creating new ones. Progress requires destroying the old to make room for the new.
 

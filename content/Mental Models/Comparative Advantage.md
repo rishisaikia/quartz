@@ -9,7 +9,6 @@ related_models:
   - "[[Leverage]]"
   - "[[Specialization]]"
 ---
-
 ## Definition
 Even if you're better at everything than someone else, you should focus on what you're MOST better at, and let others do what you're LEAST better at. Specialize in your relative advantage, not your absolute advantage.
 

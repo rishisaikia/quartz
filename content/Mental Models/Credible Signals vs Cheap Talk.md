@@ -6,10 +6,8 @@ category:
   - Economics
 related_models:
   - "[[Signaling]]"
-  - "[[Costly Signaling]]"
   - "[[Asymmetric Information]]"
 ---
-
 ## Definition
 Credible signals are costly, hard to fake, or difficult to perform—making them reliable indicators of underlying qualities. Cheap talk is easy to produce and therefore reveals nothing trustworthy about the speaker.
 
@@ -48,6 +46,13 @@ Send credible signals:
 - Cheap talk: "I'm sorry"
 - Credible signal: Public apology that damages your reputation (costly enough to be believable)
 
+Handwritten Letters:
+- Cheap talk: "Mass-printed spammy flyers"
+- Credible signal: Handwritten letters
+
+Counterfeit Art:
+- Cheap talk: A near-identical recreation of a popular painting
+- Credible signal: The original artwork; because people don't value just the end product, but also the process of creation, which works as a credibility signal due to it being resource-intensive.
 ## Common Pitfalls
 - Believing cheap talk from self-interested parties
 - Not recognizing when you're only offering cheap talk
@@ -73,3 +78,6 @@ Credible signals create competitive dynamics. Once degrees signal employability,
 
 **Distinguishing Signal from Substance:**
 The book emphasizes that signals often have some substance—education does teach some things, medicine does improve some health outcomes, charity does help some people. But we consistently overestimate the substance and underestimate the signaling component. Understanding credible signals means recognizing that much of what looks like wasteful spending is actually rational investment in believable signals.
+
+## Further thoughts
+Now that AI has made generating content easy, how does this impact the concept of credible signals?

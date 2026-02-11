@@ -9,7 +9,6 @@ related_models:
   - "[[Common Knowledge]]"
   - "[[Status Games]]"
 ---
-
 ## Definition
 Once high status is established and commonly known, you can afford to signal less obviously—or even signal in opposite ways. Secure status allows you to break the rules that lower-status people must follow.
 

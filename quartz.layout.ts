@@ -17,14 +17,10 @@ export const sharedPageComponents: SharedLayout = {
 // components for pages that display a single page (e.g. a single note)
 export const defaultContentPageLayout: PageLayout = {
   beforeBody: [
-    Component.ConditionalRender({
-      component: Component.Breadcrumbs(),
-      condition: (page) => page.fileData.slug !== "index",
-    }),
+    Component.Breadcrumbs(),
     Component.ArticleTitle(),
     Component.TagList(),
     Component.FrontmatterProperties(),
-    Component.VerticalSpacer({ height: "2rem" }), // Reduced spacing as per feedback
   ],
   left: [
     Component.PageTitle(),
@@ -39,12 +35,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer",
-      folderClickBehavior: "link",
-      folderDefaultState: "collapsed",
-      useSavedState: true,
-    }),
+    Component.Explorer(),
   ],
   right: [
     Component.Graph(),
@@ -66,14 +57,10 @@ export const defaultListPageLayout: PageLayout = {
           grow: true,
         },
         { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer({
-      title: "Explorer",
-      folderClickBehavior: "link",
-      folderDefaultState: "collapsed",
-      useSavedState: true,
-    }),
+    Component.Explorer(),
   ],
   right: [],
 }

@@ -32,6 +32,8 @@ TagList.css = `
   gap: 0.4rem;
   margin: 1rem 0;
   flex-wrap: wrap;
+  font-size: 0.8rem;
+  font-style: italic;
 }
 
 .section-li > .section > .tags {

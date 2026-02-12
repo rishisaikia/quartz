@@ -1,3 +1,10 @@
+---
+type: understanding
+category:
+  - Neuroscience
+related_models:
+related_ideas:
+---
 ### What are Neurons?
 
 The brain is made up of billions of specialized cells called **neurons**. Every thought, sensation, memory, emotion, and decision ultimately arises from how these cells operate and interact with one another.

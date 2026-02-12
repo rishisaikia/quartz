@@ -7,11 +7,11 @@ related_ideas:
 ---
 ## Key Insight
 
-In the book [[Metaphors We Live By]], Lakoff and Johnson propose a conceptual metaphor theory, which fundamentally challenges the idea that metaphor is just decorative language. Their argument is that our abstract reasoning is _necessarily_ metaphorical because we understand abstract domains by mapping them onto concrete, embodied experiences. We can't directly grasp abstractions like time, argument, love, or ideas—so our brains automatically structure them using physical and spatial concepts we understand from bodily experience.
+In the book [[Metaphors We Live By]], Lakoff and Johnson propose a conceptual metaphor theory, which fundamentally challenges the idea that metaphor is just decorative language. Their argument is that our abstract reasoning is _necessarily_ metaphorical because we understand abstract domains by mapping them onto concrete, embodied experiences. **We can't directly grasp abstractions like time, argument, love, or ideas—so our brains automatically structure them using physical and spatial concepts we understand from bodily experience.**
 
 These aren't conscious literary choices. They're cognitive structures operating below awareness, shaping how we perceive and reason about the world.
 
-Further, most people think they reason logically and objectively, then sometimes use metaphors to communicate. Lakoff and Johnson invert this: we reason _through_ metaphors, and our logic follows from whichever metaphors structure our thought. The metaphors are primary; the logic is derivative. This means changing how we think about something often requires changing the underlying metaphor—which is difficult because these metaphors feel like reality itself, not like interpretive frames we've imposed.
+Further, most people think they reason logically and objectively, then sometimes use metaphors to communicate. Lakoff and Johnson invert this: **we reason _through_ metaphors, and our logic follows from whichever metaphors structure our thought. The metaphors are primary; the logic is derivative. This means changing how we think about something often requires changing the underlying metaphor**—which is difficult because these metaphors feel like reality itself, not like interpretive frames we've imposed.
 
 ## Why this matters philosophically
 
@@ -293,7 +293,7 @@ Once you start noticing these, they're everywhere—and you realize how much of 
 
 ## The neurological connection
 
-Our brains may be biased toward narrative and pattern-finding partly because metaphorical mapping is how we extend concrete reasoning to abstract domains. The same neural systems that process physical space and movement get recruited for understanding time, relationships, and ideas. Mirror neurons, spatial processing in the parietal cortex, and sensorimotor systems all appear to activate even when we're thinking about abstract concepts—suggesting we're literally simulating physical experiences to understand abstractions.
+**Our brains may be biased toward narrative and pattern-finding partly because metaphorical mapping is how we extend concrete reasoning to abstract domains.** The same neural systems that process physical space and movement get recruited for understanding time, relationships, and ideas. Mirror neurons, spatial processing in the parietal cortex, and sensorimotor systems all appear to activate even when we're thinking about abstract concepts—suggesting we're literally simulating physical experiences to understand abstractions.
 
 ## Other Notes
 

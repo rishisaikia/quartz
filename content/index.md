@@ -1,4 +1,4 @@
 ---
 title: Welcome!
 ---
-Click on a Mental Model to explore
+![[home 1.png|600]]

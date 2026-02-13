@@ -6,10 +6,7 @@ category:
   - Productivity
 related_models:
   - "[[Friction]]"
-  - "[[Habit Formation]]"
-  - "[[Critical Mass]]"
 ---
-
 ## Definition
 The minimum energy required to start a reaction or process. The initial barrier that must be overcome before change can occur.
 

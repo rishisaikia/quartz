@@ -15,7 +15,7 @@ The tendency to search for, interpret, and remember information in a way that co
 
 ## Key Insight
 
-We don't naturally seek truth—we seek confirmation. Your brain automatically filters reality to match what you already believe, making you blind to alternative explanations and evidence.
+*We don't naturally seek truth—we seek confirmation*. Your brain automatically filters reality to match what you already believe, making you blind to alternative explanations and evidence.
 
 ## How to Apply
 
@@ -39,4 +39,8 @@ Meanwhile, another employee you weren't initially impressed with does solid work
 
 ## Notes
 
-**Evolutionary basis**: Confirmation bias may have helped maintain group cohesion and shared belief systems, which were crucial for cooperation and survival in small tribal groups.
+Confirmation bias may have helped maintain group cohesion and shared belief systems, which were crucial for cooperation and survival in small tribal groups.
+
+Given how eager AI models are to please, will it fuel confirmation bias?
+
+Also explains why we are positively predisposed to someone we've helped in the past. Benjamin Franklin anecdote?

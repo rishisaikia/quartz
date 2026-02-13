@@ -20,6 +20,12 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
 }
+
+@media (max-width: 600px) {
+  .page-title {
+    font-size: 1.5rem;
+  }
+}
 `
 
 export default (() => PageTitle) satisfies QuartzComponentConstructor

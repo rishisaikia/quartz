@@ -1,4 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { transformLink, FullSlug } from "../util/path"
 import style from "./styles/frontmatterProperties.scss"
 
 interface FrontmatterPropertiesOptions {
@@ -14,6 +15,7 @@ export default ((opts?: Partial<FrontmatterPropertiesOptions>) => {
 
     const FrontmatterProperties: QuartzComponent = ({
         fileData,
+        allFiles,
         displayClass
     }: QuartzComponentProps) => {
         const frontmatter = fileData.frontmatter
@@ -56,8 +58,11 @@ export default ((opts?: Partial<FrontmatterPropertiesOptions>) => {
             if (wikiLinkMatch) {
                 const linkText = wikiLinkMatch[1]
                 // Convert to URL-friendly slug
-                const slug = linkText.toLowerCase().replace(/\s+/g, '-')
-                return { isLink: true, text: linkText, href: slug }
+                const href = transformLink(fileData.slug!, linkText, {
+                    strategy: "shortest",
+                    allSlugs: allFiles.map((f) => f.slug as FullSlug),
+                })
+                return { isLink: true, text: linkText, href }
             }
             return { isLink: false, text }
         }

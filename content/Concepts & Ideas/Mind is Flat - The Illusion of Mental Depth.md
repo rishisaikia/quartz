@@ -6,7 +6,7 @@ category:
 related_models:
   - "[[Narrative Fallacy]]"
 related_ideas:
-  - "[[Self Deception]]"
+  - "[[Self Deception as a Means to Manipulate Others]]"
 ---
 ### Key Insight
 

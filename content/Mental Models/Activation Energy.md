@@ -5,9 +5,9 @@ category:
   - Behavior Change
   - Productivity
 related_models:
+  - "[[Friction]]"
   - "[[Habit Formation]]"
   - "[[Critical Mass]]"
-  - "[[Friction]]"
 ---
 
 ## Definition

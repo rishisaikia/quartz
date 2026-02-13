@@ -6,7 +6,7 @@ category:
 related_models:
   - "[[Signaling]]"
 related_ideas:
-  - "[[Self Deception]]"
+  - "[[Self Deception as a Means to Manipulate Others]]"
 ---
 ## Key Insight
 On the surface, conversations seem like an exercise in information exchange. But they are in fact a way for speakers to show off their wit, perception, status and intelligence, while it's a way for listeners to find speakers they would want to associate with. 

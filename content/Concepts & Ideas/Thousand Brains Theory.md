@@ -361,6 +361,3 @@ Hawkins emphasizes that the neocortex (new brain) doesn't work alone. It sits on
 - **Numenta Research Papers:** https://numenta.com/research-publications/
 - **HTM School Videos:** Video explanations of HTM concepts
 - **Numenta GitHub:** Open-source HTM implementations
-
----
-

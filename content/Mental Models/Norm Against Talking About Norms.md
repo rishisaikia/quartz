@@ -5,7 +5,7 @@ category:
   - Meta-Rules
   - Taboos
 related_models:
-  - "[[Social Norms]]"
+  - "[[Mental Models/Social Norms]]"
   - "[[Common Knowledge]]"
   - "[[Pluralistic Ignorance]]"
 ---

@@ -23,7 +23,7 @@ Laughter has two qualities:
 2. It gives us a way out of situations
 
 ## Real-World Examples
-We don't laugh continuously. We only feel the need for 'reassurance' in situations that, if not for the laughter, can be interpreted as too serious or too dangerous. This explains why when we are kids, we laugh in situations of mock aggresion (tickling), mock danger (being thrown in the air) and surprises (peekaboo). As we grow up, these adventures turn into explorations of [[Norms]]. 
+We don't laugh continuously. We only feel the need for 'reassurance' in situations that, if not for the laughter, can be interpreted as too serious or too dangerous. This explains why when we are kids, we laugh in situations of mock aggresion (tickling), mock danger (being thrown in the air) and surprises (peekaboo). As we grow up, these adventures turn into explorations of [[Social Norms as a Means to Regulate Signaling]]. 
 
 ## Notes
 

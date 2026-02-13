@@ -9,7 +9,7 @@ related_models:
   - "[[Asymmetric Information]]"
   - "[[Skin in the Game]]"
 related_ideas:
-  - "[[Self Deception]]"
+  - "[[Self Deception as a Means to Manipulate Others]]"
 ---
 ## Definition
 Actions or attributes that communicate information about someone's qualities, abilities, or intentions. Effective signals are hard to fake, making them credible indicators of underlying traits.

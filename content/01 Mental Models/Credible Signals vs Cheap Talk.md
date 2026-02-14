@@ -9,12 +9,15 @@ related_models:
   - "[[Asymmetric Information]]"
 ---
 ## Definition
+
 Credible signals are costly, hard to fake, or difficult to perform—making them reliable indicators of underlying qualities. Cheap talk is easy to produce and therefore reveals nothing trustworthy about the speaker.
 
 ## Key Insight
+
 Words are cheap; actions are expensive. Anyone can claim desirable qualities, so claims alone are worthless. Only signals that would be irrational for imposters to produce carry information. The cost is what makes it credible—if it were easy to fake, everyone would fake it.
 
 ## How to Apply
+
 Evaluate signals:
 - "How costly is this signal to produce?"
 - "Could someone without the quality fake this signal?"
@@ -26,6 +29,7 @@ Send credible signals:
 - Avoid cheap talk when you need to be believed
 
 ## Real-World Example
+
 **Job market:**
 - Cheap talk: "I'm a hard worker" (anyone can say this)
 - Credible signal: Completed a degree while working full-time (only hard workers could do this)
@@ -54,6 +58,7 @@ Counterfeit Art:
 - Cheap talk: A near-identical recreation of a popular painting
 - Credible signal: The original artwork; because people don't value just the end product, but also the process of creation, which works as a credibility signal due to it being resource-intensive.
 ## Common Pitfalls
+
 - Believing cheap talk from self-interested parties
 - Not recognizing when you're only offering cheap talk
 - Confusing expensive signals with value (the cost is the signal, not necessarily valuable in itself)
@@ -61,6 +66,7 @@ Counterfeit Art:
 - Assuming all costs are signals (some are just waste)
 
 ## Notes
+
 In [[The Elephant in the Brain]], Robin Hanson and Kevin Simler use the credible signals framework to explain why many human institutions are so costly and seemingly wasteful. The cost isn't incidental—it's essential to the signaling function.
 
 **Education as Credible Signal:**
@@ -80,4 +86,5 @@ Credible signals create competitive dynamics. Once degrees signal employability,
 The book emphasizes that signals often have some substance—education does teach some things, medicine does improve some health outcomes, charity does help some people. But we consistently overestimate the substance and underestimate the signaling component. Understanding credible signals means recognizing that much of what looks like wasteful spending is actually rational investment in believable signals.
 
 ## Further thoughts
+
 Now that AI has made generating content easy, how does this impact the concept of credible signals?

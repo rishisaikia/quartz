@@ -3,7 +3,7 @@ type: concept
 category:
   - Behavior
 related_models:
-  - "[[Mental Models/Social Norms]]"
+  - "[[Social Norms]]"
 related_ideas:
   - "[[Self Deception as a Means to Manipulate Others]]"
 ---

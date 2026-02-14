@@ -6,7 +6,7 @@ category:
   - Strategy
 related_models:
   - "[[Common Knowledge]]"
-  - "[[Mental Models/Social Norms]]"
+  - "[[Social Norms]]"
   - "[[Focal Point]]"
 ---
 

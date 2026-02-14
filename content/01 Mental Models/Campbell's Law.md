@@ -6,7 +6,7 @@ related_models:
 ---
 ## Definition
 
-
+The stronger the incentive tied to a quantitative indicator, the more it corrupts the process it measures.
 ## Key Insight
 
 

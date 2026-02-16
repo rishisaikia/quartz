@@ -5,13 +5,20 @@ category:
 related_models:
 ---
 ## Key Insight
-Theory of Mind is the ability to attribute mental states to ourselves and to others, serving as one of the foundational elements for social interaction. It allows us to understand that others have unique beliefs and desires different from our own. This enables us to interpret and predict others behaviours. It's called a theory because the mind and its thoughts are not observable; hence they need to be infered like a theory. One of the traditional tests for theory of mind is the ability to hold false beliefs. 
 
-- **Concept of Attention**: seeing is not merely looking, but rather we can selectively direct our attention to specific objects and people. A key example is joint attention, when two people direct their attention to the same thing of interest, often done via pointing so as to direct another's attention.
-- **Concept of Intentionality**: Other's actions are goal-oriented, and arise out of unique beliefs and desires. To understand that people act in a way motivated by their desires (for example, 'am hungry'  --> 'reach for the apple') is to understand that other people have their own desires (she must be hungry), thus demonstrating a theory of mind, or attributing mental states to others.
-- **Ability to Imitate**: Bridging attention and intentionality, imitation can result when a child realises that others direct their attention and do so intentionally. Internalising these two concepts, the child then directs his or her eyes towards that specific object or scene.
+Theory of Mind is the ability to understand that other minds are separate from our own—what we know, believe, or perceive isn't automatically what others know, believe, or perceive. This simple realization (which children develop around age 4-5) is foundational to all social interaction, empathy, deception, and communication.
 
+## Details
 
+Theory of Mind is the ability to recognize that others have mental states—beliefs, desires, intentions—different from our own. This lets us interpret and predict their behavior. It's called a "theory" because we can't directly observe thoughts; we must infer them.
+
+A key test is understanding **false beliefs**: recognizing that someone can believe something incorrect (and act on that belief), even when you know the truth.
+
+**Three building blocks:**
+
+- **Attention**: Understanding that people selectively focus on specific things. _Joint attention_ occurs when two people focus on the same object—like when pointing directs someone's gaze.
+- **Intentionality**: Recognizing that actions are goal-driven, stemming from unique beliefs and desires. When someone reaches for an apple, you infer "they must be hungry"—attributing a mental state to them.
+- **Imitation**: When children realize others act with attention and intention, they can reproduce those actions by directing their own attention to the same goals.
 
 ## Real-World Examples
 

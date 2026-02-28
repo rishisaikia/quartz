@@ -14,7 +14,7 @@ related_models:
 Highly improbable events with massive impact that seem obvious in hindsight but were unpredictable beforehand. Rare, extreme, and retrospectively predictable.
 
 ## Key Insight
-We dramatically underestimate the impact of rare events. Our models assume normal distributions, but reality has "fat tails"—rare events happen more often and with bigger impact than we expect. You can't predict Black Swans, but you can prepare for their existence.
+We dramatically underestimate the impact of rare events. Our models assume normal distributions, but reality has "[[Fat Tails|fat tails]]"—rare events happen more often and with bigger impact than we expect. You can't predict Black Swans, but you can prepare for their existence.
 
 ## How to Apply
 Accept Black Swan reality:
@@ -31,7 +31,7 @@ Prepare for Black Swans:
 ## Real-World Example
 **9/11**: No one predicted coordinated attacks using civilian aircraft as weapons. Seemed impossible until it happened. Massive impact. In hindsight, people claimed they "should have seen it coming"—classic Black Swan.
 
-**2008 Financial Crisis**: Most experts thought housing prices couldn't fall nationwide. The crash seemed extremely unlikely based on historical data. But it happened, with devastating impact. Later, everyone said it was "obvious" (narrative fallacy).
+**2008 Financial Crisis**: Most experts thought housing prices couldn't fall nationwide. The crash seemed extremely unlikely based on historical data. But it happened, with devastating impact. Later, everyone said it was "obvious" ([[Narrative Fallacy|narrative fallacy]]).
 
 **COVID-19**: A global pandemic shutting down the world economy seemed like science fiction in 2019. In 2020, it was reality. Massive impact, unpredicted by most, retrospectively "obvious."
 

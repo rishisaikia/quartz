@@ -24,7 +24,7 @@ Distinguish components:
 
 Recognize when you're competing:
 - Credentials are partly zero-sum (ranking mechanism)
-- Status goods are inherently zero-sum (relative position)
+- [[Status Games|Status goods]] are inherently zero-sum (relative position)
 - Signaling is zero-sum when everyone signals more
 
 ## Real-World Example

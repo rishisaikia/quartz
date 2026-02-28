@@ -113,4 +113,4 @@ Understanding near/far helps explain:
 - Why we're surprised by our own behavior (we predict using far mode, act in near mode)
 - Why abstract agreement doesn't lead to concrete cooperation (different modes)
 
-The book suggests being honest about this: Your far-mode values are what you wish you cared about; your near-mode actions are what you actually care about. Both deserve acknowledgment.
+The book suggests being honest about this: Your far-mode values are what you wish you cared about; your near-mode actions are your [[Revealed Preferences|revealed preferences]]. Both deserve acknowledgment.

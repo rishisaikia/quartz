@@ -9,12 +9,11 @@ related_models:
   - "[[Costly Signaling]]"
   - "[[Sunk Cost Fallacy]]"
 ---
-
 ## Definition
 Accepting costs or performing seemingly irrational behaviors to credibly demonstrate loyalty to a group. The sacrifice itself proves commitment because free-riders wouldn't bear such costs.
 
 ## Key Insight
-Rational self-interest suggests you'd free-ride on group benefits while avoiding costs. Irrational sacrifice proves you're not free-riding—you're genuinely committed. Groups demand costly loyalty demonstrations precisely to filter out free-riders. The wastefulness is the point.
+Rational self-interest suggests you'd [[Free Rider Problem|free-ride]] on group benefits while avoiding costs. Irrational sacrifice proves you're not free-riding—you're genuinely committed. Groups demand costly loyalty demonstrations precisely to filter out free-riders. The wastefulness is the point.
 
 ## How to Apply
 Understand commitment devices:
@@ -51,12 +50,12 @@ Founders who quit stable jobs, work without salary, and risk their savings are d
 - Mistaking commitment devices for actual values (they're signals of commitment)
 
 ## Notes
-In [[The Elephant in the Brain]], Robin Hanson and Kevin Simler argue that much seemingly wasteful or irrational behavior serves as commitment device to prove group loyalty. This solves a fundamental problem in group cooperation: the free-rider problem.
+In [[The Elephant in the Brain]], Robin Hanson and Kevin Simler argue that much seemingly wasteful or irrational behavior serves as commitment device to prove group loyalty. This solves a fundamental problem in group cooperation: the [[Free Rider Problem]].
 
 **The Free-Rider Problem:**
 Groups provide benefits (protection, resources, cooperation), creating incentive to join. But contributing to the group is costly (time, resources, risk). Rational actors would want to receive benefits without paying costs—free-riding. If everyone free-rides, the group collapses.
 
-Solution: Demand costly signals of commitment that free-riders won't pay. By requiring sacrifice, groups filter for genuine members and deter free-riders.
+Solution: Demand [[Costly Signaling|costly signals]] of commitment that free-riders won't pay. By requiring sacrifice, groups filter for genuine members and deter free-riders.
 
 **Why Irrational Loyalty Works:**
 The book explains that precisely because defending your tribe when they're wrong is irrational from an outside perspective, it's a powerful signal internally. If you only supported your group when they were right, you'd be a fair-weather friend—unreliable when things get tough.

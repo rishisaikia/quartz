@@ -9,7 +9,6 @@ related_models:
   - "[[Strategic Ignorance]]"
   - "[[Asymmetric Information]]"
 ---
-
 ## Definition
 Despite technological ability to share information freely, we actively maintain information asymmetries and ambiguities because many social arrangements depend on them. The resistance to transparency isn't technological—it's social and psychological.
 

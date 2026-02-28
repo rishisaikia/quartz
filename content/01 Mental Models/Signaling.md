@@ -31,7 +31,7 @@ Sending signals:
 ## Real-World Example
 **Education as signal**: A college degree signals intelligence, conscientiousness, and ability to complete difficult tasks—not just specific knowledge. Employers value degrees partly for the signal. Getting a degree from Harvard is an expensive, hard-to-fake signal that you're smart and hardworking.
 
-**Luxury goods**: A $10,000 watch doesn't tell time better than a $100 watch. It signals wealth. The high price makes it hard to fake, creating a credible signal. If Rolex watches were $50, they'd lose signaling value.
+**Luxury goods**: A $10,000 watch doesn't tell time better than a $100 watch. It signals wealth and [[Status Games|status]]. The high price makes it hard to fake, creating a credible signal. If Rolex watches were $50, they'd lose signaling value.
 
 **Wedding rings**: Expensive engagement rings signal commitment. The cost (deliberately wasted money) shows you're serious about the relationship. Cheap rings would signal less commitment because they're easier to give.
 

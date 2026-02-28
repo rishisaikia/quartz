@@ -1,3 +1,5 @@
+![[Lifecycle of Stars.png]]
+
 Stars are born, live, and die in a fascinating cycle that can span millions to billions of years. Their paths depend significantly on their mass. Here’s a detailed look at each stage:
 
 ### 1. **Nebula**
